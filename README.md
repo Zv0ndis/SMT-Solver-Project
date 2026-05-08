@@ -1,9 +1,17 @@
-# Logical Foundations of Digital Systems (IZLO) - Part 2
+# SMT Solver Logic (IZLO)
 
-SMT solver project using SMT-LIB format.
+## Overview
+Advanced logic project using Satisfiability Modulo Theories (SMT). Focuses on modeling and solving complex constraints using the SMT-LIB language format.
 
-## Course
-FIT VUT in Brno
+## Key Features
+- Implementation of core algorithms and data structures.
+- Academic project focused on efficiency and code quality.
+- Robust error handling and memory management.
+
+## Course Information
+- **Institution:** Faculty of Information Technology, Brno University of Technology (FIT VUT)
+- **Course:** IZLO
 
 ## Author
-Tomáš Zvoníček (xzvonit00)
+- **Name:** Tomáš Zvoníček
+- **Login:** xzvonit00
